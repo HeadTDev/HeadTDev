@@ -1,4 +1,10 @@
-### Hi there 👋
+<h2>Readme page is under construction...</h2>
+
+
+| Used Languages|
+| :---: |
+  |<img alt="Static Badge" src="https://img.shields.io/badge/C%23-_-purple"> <img alt="Static Badge" src="https://img.shields.io/badge/Java-_-yellow"> |
+  |<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-_-orange"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-_-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/PHP-_-blueviolet">|
 
 <!--
 **HeadTDev/HeadTDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
