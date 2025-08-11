@@ -1,4 +1,4 @@
-Coming soon...
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F7DF&width=435&lines=Coming+soon..." alt="Typing SVG" /></a>
 <!--
 **HeadTDev/HeadTDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
